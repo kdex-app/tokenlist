@@ -1,0 +1,92 @@
+{
+  "name": "KDex List",
+  "timestamp": "2022-09-16T00:00:00.000Z",
+  "logoURI": "https://kadex.app/favicon.png",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "name": "Wrapped KAVA",
+      "address": "0xc86c7C0eFbd6A49B35E8714C5f59D99De09A225b",
+      "symbol": "WKAVA",
+      "decimals": 18,
+      "chainId": 2222,
+      "logoURI": "https://assets.coingecko.com/coins/images/9761/small/kava.png"
+    },
+    {
+      "name": "KDex",
+      "symbol": "KDEX",
+      "chainId": 2222,
+      "decimals": 18,
+      "address": "0xd98B03e50c9e74Ed990eA04dcEd07EFEE960EA78",
+      "logoURI": "https://kdex.app/images/192x192_App_Icon.png"
+    },
+    {
+      "name": "xKDex",
+      "symbol": "xKDEX",
+      "chainId": 2222,
+      "decimals": 18,
+      "address": "0x43B0952593184E58fACbbdA2Bf7eD78ceABFBf0A",
+      "logoURI": "https://kdex.app/images/192x192_App_Icon.png"
+    },
+    {
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "chainId": 2222,
+      "decimals": 18,
+      "address": "0x765277EebeCA2e31912C9946eAe1021199B39C61",
+      "logoURI": "https://assets.coingecko.com/coins/images/9956/thumb/4943.png"
+    },
+    {
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "chainId": 2222,
+      "decimals": 18,
+      "address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    {
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "chainId": 2222,
+      "decimals": 8,
+      "address": "0x818ec0A7Fe18Ff94269904fCED6AE3DaE6d6dC0b",
+      "logoURI": "https://assets.coingecko.com/coins/images/14867/thumb/binance-btc_32.png"
+    },
+    {
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "chainId": 2222,
+      "decimals": 6,
+      "address": "0xfA9343C3897324496A05fC75abeD6bAC29f8A40f",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    {
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "chainId": 2222,
+      "decimals": 6,
+      "address": "0xB44a9B6905aF7c801311e8F4E76932ee959c663C",
+      "logoURI": "https://assets.coingecko.com/coins/images/325/thumb/Tether-logo.png"
+    },
+    {
+      "chainId": 2222,
+      "address": "0xCa7350Ed65c2fC90A9DBF2D15C75E80EA91aB1c1",
+      "decimals": 6,
+      "name": "RUBY CACH",
+      "symbol": "RUBY",
+      "logoURI": "https://raw.githubusercontent.com/jupiterswap/tokens/main/assets/0xa2c535EBF7A48572F61F9273E8dBF61a0A79610D/logo_24.png"
+    },
+    {
+      "chainId": 2222,
+      "address": "0x5547F680Ad0104273d0c007073B87f98dEF199c6",
+      "decimals": 18,
+      "name": "RUBY SHARE",
+      "symbol": "RSHARE",
+      "logoURI": "https://raw.githubusercontent.com/jupiterswap/tokens/main/assets/0x5547F680Ad0104273d0c007073B87f98dEF199c6/logo_24.png"
+    }
+  ]
+}
