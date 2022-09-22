@@ -5,7 +5,7 @@
   "version": {
     "major": 2,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   },
   "tokens": [
     {
@@ -29,7 +29,7 @@
       "symbol": "xKDEX",
       "chainId": 2222,
       "decimals": 18,
-      "address": "0x43B0952593184E58fACbbdA2Bf7eD78ceABFBf0A",
+      "address": "0xA0d7fdA1D810CC67f8eCBbAB5ECF8C85cB1371Fd",
       "logoURI": "https://kdex.app/images/192x192_App_Icon.png"
     },
     {
