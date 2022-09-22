@@ -3,7 +3,7 @@
   "timestamp": "2022-09-16T00:00:00.000Z",
   "logoURI": "https://kadex.app/favicon.png",
   "version": {
-    "major": 3,
+    "major": 4,
     "minor": 0,
     "patch": 1
   },
@@ -21,7 +21,7 @@
       "symbol": "KDEX",
       "chainId": 2222,
       "decimals": 18,
-      "address": "0xd98B03e50c9e74Ed990eA04dcEd07EFEE960EA78",
+      "address": "0x836a8f50dEe12B6acca966e9861749eCf269D9d2",
       "logoURI": "https://kdex.app/images/192x192_App_Icon.png"
     },
     {
@@ -29,7 +29,7 @@
       "symbol": "xKDEX",
       "chainId": 2222,
       "decimals": 18,
-      "address": "0xA0d7fdA1D810CC67f8eCBbAB5ECF8C85cB1371Fd",
+      "address": "0x596773d93aaB4b8eF61213d9d54964Aa840B61a0",
       "logoURI": "https://kdex.app/images/192x192_App_Icon.png"
     },
     {
