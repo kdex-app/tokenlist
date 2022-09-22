@@ -1,9 +1,9 @@
 {
   "name": "KDex List",
   "timestamp": "2022-09-16T00:00:00.000Z",
-  "logoURI": "https://kadex.app/favicon.png",
+  "logoURI": "https://kdex.app/favicon.png",
   "version": {
-    "major": 4,
+    "major": 5,
     "minor": 0,
     "patch": 1
   },
